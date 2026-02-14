@@ -1,4 +1,4 @@
-# currency-converter
+# Currency Converter
 Real-time currency converter using JavaScript Fetch API and exchange rate API integration.
 
 # Features
@@ -17,6 +17,6 @@ Exchange Rate API (for live data)
 
 # How to Run Locally
 1.Clone this repository:
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/Vanishka-kamboj/currency-converter.git
 2.Open the project folder.
 3.Open index.html in your browser.
